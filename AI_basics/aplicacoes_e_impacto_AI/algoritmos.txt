@@ -1,0 +1,12 @@
+Machine learn é uma area da AI
+
+Algoritmos:
+
+Aprendizado supervisionado: cada dado de entrada ja tem uma saida associada, faz uma abstracao para entender os padroes
+como o nome diz, precisa ser supervisionado e direcionado
+
+Aprendizado nao supervisionado: ele precisa descobrir os padroes e dados por conta propria, objetivo de agrupar dados e dimensionar os dados para facilitar a analise. 
+
+Apredizado por reforco: agente que interage com o ambiente e recebe feedback com base com sua eficiencia. Recebe uma recomensa caso de acerto e penalidade no caso de erro
+
+Cada algoritmo tem suas desvantagens e desafios.Não existe um algoritmo perfeito.

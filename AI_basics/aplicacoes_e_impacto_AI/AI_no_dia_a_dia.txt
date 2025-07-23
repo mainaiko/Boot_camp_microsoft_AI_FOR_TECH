@@ -1,0 +1,12 @@
+Texto em 9 keys, celulares antigos utilizavam texto em 9 letras para escrever, apos vieram os full keybord
+
+Atualmente estamos com celulares com teclados em forma de software
+
+A AI esta integrada ao teclado do celular que tenta premeditar e recomendar palavras que o usuario digita com mais frequencia
+Ou seja é um modelo de AI que o android utiliza
+
+Na caixa de spam do gmail utiliza AI para premetidar e definir o que é um spam e o que não é
+
+O algoritmo do instagram é uma AI que aprende o que o usuario mais gosta e recomenda para ele, ele que decide o que é relevante ou não na plataforma
+
+AI vem para resolver problemas das empresas e escalonar a produtividade, ferramenta de apoio para outras ferramentas

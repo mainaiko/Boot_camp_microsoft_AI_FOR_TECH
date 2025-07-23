@@ -1,0 +1,10 @@
+Visao computacional é uma area da AI
+
+permite que os computadores interpretem o ambiente a sua volta, utilzando algoritmos de redes neurais convulucionais. Redes inspiradas no cerebro humano treinada para reconhecer padroes complexos para reconhecimento de objetos e imagens.
+
+Grande desafio da visao computacional e segmentaçao de objetos, separar objetos de uma imagem fosse um quebra cabeças. Hoje em dia é algo mais comum e facil
+
+Amplamente utilizada em carros autonomos
+
+Deteccao e reconhecimento facial tambem pode ser um exemplo de visao computacional
+
